@@ -22,7 +22,7 @@ This Flutter app allows you to calculate your Body Mass Index (BMI) quickly and 
 
 To use this app, follow these steps:
 
-1. Download the app from the [APK provided]().
+1. Download the app from the [APK provided](https://github.com/Moaaz-Mahmoud/BMI-Calculator/blob/master/BMI%20Calculator.apk).
 2. Install the app on your Android device.
 3. Open the app.
 
